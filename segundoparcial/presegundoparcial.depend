@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1593470594 source:/home/lucas/Escritorio/presegundoparcial/Controller.c
+	"Controller.h"
+	"parser.h"
+
+1593469870 /home/lucas/Escritorio/presegundoparcial/Controller.h
+	"LinkedList.h"
+	"Vuelo.h"
+	"Piloto.h"
+
+1593470151 /home/lucas/Escritorio/presegundoparcial/LinkedList.h
+
+1593288934 /home/lucas/Escritorio/presegundoparcial/Vuelo.h
+	<stdio.h>
+	<string.h>
+	"Properties.h"
+
+1593470831 /home/lucas/Escritorio/presegundoparcial/Piloto.h
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"Properties.h"
+
+1593470710 source:/home/lucas/Escritorio/presegundoparcial/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593470764 source:/home/lucas/Escritorio/presegundoparcial/main.c
+	"LinkedList.h"
+	"Controller.h"
+
+1593470743 source:/home/lucas/Escritorio/presegundoparcial/Piloto.c
+	"Piloto.h"
+
+1593289041 source:/home/lucas/Escritorio/presegundoparcial/Vuelo.c
+	"Vuelo.h"
+
+1593470801 source:/home/lucas/Escritorio/presegundoparcial/Menu.c
+
+1593467425 /home/lucas/Escritorio/presegundoparcial/parser.h
+
+1593469336 source:/home/lucas/Escritorio/presegundoparcial/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Vuelo.h"
+	"Piloto.h"
+
+1593469311 /home/lucas/Escritorio/presegundoparcial/Properties.h
+
+1593471914 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/main.c
+	"LinkedList.h"
+	"Controller.h"
+
+1593471179 /home/lucas/Escritorio/laboratorio1/segundoparcial/LinkedList.h
+
+1593469870 /home/lucas/Escritorio/laboratorio1/segundoparcial/Controller.h
+	"LinkedList.h"
+	"Vuelo.h"
+	"Piloto.h"
+
+1593288934 /home/lucas/Escritorio/laboratorio1/segundoparcial/Vuelo.h
+	<stdio.h>
+	<string.h>
+	"Properties.h"
+
+1593469311 /home/lucas/Escritorio/laboratorio1/segundoparcial/Properties.h
+
+1593471994 /home/lucas/Escritorio/laboratorio1/segundoparcial/Piloto.h
+	<stdio.h>
+	<string.h>
+	"LinkedList.h"
+	"Properties.h"
+
+1593470801 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/Menu.c
+
+1593469336 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Vuelo.h"
+	"Piloto.h"
+
+1593471770 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/Piloto.c
+	"Piloto.h"
+
+1593289041 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/Vuelo.c
+	"Vuelo.h"
+
+1593472008 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593471974 source:/home/lucas/Escritorio/laboratorio1/segundoparcial/Controller.c
+	"Controller.h"
+	"parser.h"
+
+1593467425 /home/lucas/Escritorio/laboratorio1/segundoparcial/parser.h
+
